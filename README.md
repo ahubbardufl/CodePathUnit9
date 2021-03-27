@@ -72,4 +72,6 @@ Within salesperson.php, it is possible to manipulate the id value via developer 
 ## Notes
 Describe any challenges encountered while doing the work
 I was not able to prove that the Red site does not verify CSRF tokens and I was not able to implement a self-submitting HTML form under user login credentials. I assumed the red site was vulnerable to this attack, as it was the last on the list of vulnerabilities and all others had been found. 
-Also, I had encountered three errors across multiple gif creation apps that prevented me from recording/saving gifs of the exploits. I had done the writeup and submitted because I was running out of time. ![image](https://user-images.githubusercontent.com/77745725/112708994-142d2280-8e8c-11eb-8dc9-2d1d41e2bc6c.png)
+Also, I had encountered three errors across multiple gif creation apps that prevented me from recording/saving gifs of the exploits. I had done the writeup and submitted because I was running out of time.
+Error messages included
+"It was not possible to caputure the screen", "generic error occured in GDI+", "There is not enough space on the disk"
